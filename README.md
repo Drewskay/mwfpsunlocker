@@ -1,5 +1,5 @@
 # Usage
-1. Download Latest Releases From https://github.com/drewskay/mwfpsunlocker/release
+1. Download Latest Releases From https://github.com/drewskay/mwfpsunlocker/releases
 2. Extract ``mwfpsunlocker.zip`` Into A Folder
 3. Run ``mwfpsunlocker.exe`` Before You Start FiveM
 4. FPS Will Be Unlocked To Infinite, It Will Also Apply The Best Modern Warfare Settings For FPS!
